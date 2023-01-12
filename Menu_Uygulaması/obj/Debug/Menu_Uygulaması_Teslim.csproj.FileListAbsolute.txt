@@ -1,0 +1,8 @@
+C:\Users\PORTEGE\source\repos\Menu_Uygulaması_Teslim\Menu_Uygulaması_Teslim\obj\Debug\Menu_Uygulaması_Teslim.csproj.AssemblyReference.cache
+C:\Users\PORTEGE\source\repos\Menu_Uygulaması_Teslim\Menu_Uygulaması_Teslim\obj\Debug\Menu_Uygulaması_Teslim.csproj.SuggestedBindingRedirects.cache
+C:\Users\PORTEGE\source\repos\Menu_Uygulaması_Teslim\Menu_Uygulaması_Teslim\obj\Debug\Menu_Uygulaması_Teslim.csproj.CoreCompileInputs.cache
+C:\Users\PORTEGE\source\repos\Menu_Uygulaması_Teslim\Menu_Uygulaması_Teslim\bin\Debug\Menu_Uygulaması_Teslim.exe.config
+C:\Users\PORTEGE\source\repos\Menu_Uygulaması_Teslim\Menu_Uygulaması_Teslim\bin\Debug\Menu_Uygulaması_Teslim.exe
+C:\Users\PORTEGE\source\repos\Menu_Uygulaması_Teslim\Menu_Uygulaması_Teslim\bin\Debug\Menu_Uygulaması_Teslim.pdb
+C:\Users\PORTEGE\source\repos\Menu_Uygulaması_Teslim\Menu_Uygulaması_Teslim\obj\Debug\Menu_Uygulaması_Teslim.exe
+C:\Users\PORTEGE\source\repos\Menu_Uygulaması_Teslim\Menu_Uygulaması_Teslim\obj\Debug\Menu_Uygulaması_Teslim.pdb
